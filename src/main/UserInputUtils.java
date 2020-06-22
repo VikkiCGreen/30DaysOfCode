@@ -1,10 +1,13 @@
 import day0.HelloWorld;
+import day1.DataTypes;
 
 import java.util.Scanner;
 
 public final class UserInputUtils {
 
-    public static int getInputDay() {
+    private UserInputUtils() {}
+
+    public static void getInputDay() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the challenge day you'd like to run (between 0 and 29): ");
         int day = 0;
@@ -22,17 +25,19 @@ public final class UserInputUtils {
         } else {
             scanner.close();
         }
-        return day;
     }
 
     public static void getChallenge(int inputDay) {
         switch (inputDay) {
             case 0:
                 HelloWorld helloWorld = new HelloWorld();
-                helloWorld.printString();
+                helloWorld.day0Challenge();
                 break;
             case 1:
-                //TODO:
+                DataTypes dataTypes = new DataTypes();
+                dataTypes.day1Challenge();
+                break;
+            case 2:
                 break;
             //TODO: ...
             default:
