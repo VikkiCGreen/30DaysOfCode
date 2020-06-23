@@ -1,5 +1,6 @@
 import day0.HelloWorld;
 import day1.DataTypes;
+import day2.Operators;
 
 import java.util.Scanner;
 
@@ -38,6 +39,8 @@ public final class UserInputUtils {
                 dataTypes.day1Challenge();
                 break;
             case 2:
+                Operators operators = new Operators();
+                operators.day2Challenge();
                 break;
             //TODO: ...
             default:
