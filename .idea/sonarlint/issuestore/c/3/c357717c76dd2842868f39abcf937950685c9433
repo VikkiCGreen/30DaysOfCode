@@ -1,0 +1,9 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í8œÊÚš®.
+G
+java:S1144"*Remove this unused private "solve" method.(šÿÑ—8ÅõŠ¢®.
+C
+java:S1481"&Remove this unused "N" local variable.(ƒ³´í8ÅõŠ¢®.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿÑ—8¥Áàš®.
+R
+java:S1854"5Remove this useless assignment to local variable "N".(ƒ³´í8ÅõŠ¢®.
