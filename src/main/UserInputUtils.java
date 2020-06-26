@@ -2,6 +2,7 @@ import day0.HelloWorld;
 import day1.DataTypes;
 import day2.Operators;
 import day3.ConditionalStatements;
+import day4.ClassVsInstance;
 
 import java.util.Scanner;
 
@@ -46,6 +47,10 @@ public final class UserInputUtils {
             case 3:
                 ConditionalStatements conditionalStatements = new ConditionalStatements();
                 conditionalStatements.day3Challenge();
+                break;
+            case 4:
+                ClassVsInstance classVsInstance = new ClassVsInstance();
+                classVsInstance.day4Challenge();
                 break;
             //TODO: ...
             default:
