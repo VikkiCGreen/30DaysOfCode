@@ -5,6 +5,7 @@ import day3.ConditionalStatements;
 import day4.ClassVsInstance;
 import day5.Loops;
 import day6.Review1;
+import day7.Arrays;
 
 import java.util.Scanner;
 
@@ -61,6 +62,10 @@ public final class UserInputUtils {
             case 6:
                 Review1 review1 = new Review1();
                 review1.day6Challenge();
+                break;
+            case 7:
+                Arrays arrays = new Arrays();
+                arrays.day7Challenge();
                 break;
             //TODO: ...
             default:

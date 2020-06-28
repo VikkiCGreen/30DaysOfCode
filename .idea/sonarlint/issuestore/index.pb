@@ -17,3 +17,11 @@ L
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 X
 (src/main/day3/ConditionalStatements.java,c\3\c357717c76dd2842868f39abcf937950685c9433
+H
+src/main/day5/Loops.java,b\f\bf1893c589ee8d0eafeddcce5bf4531b68c6295d
+R
+"src/main/day4/ClassVsInstance.java,d\9\d99bd10704c0b960ae696694059bc1e7002aa7ac
+I
+src/main/day4/Person.java,7\2\72297be2ddbd45b62cb7d744c063d8a838bcb1a5
+J
+src/main/day6/Review1.java,7\9\79cede1d4f18196b2433f71a443e69b7a380c6db

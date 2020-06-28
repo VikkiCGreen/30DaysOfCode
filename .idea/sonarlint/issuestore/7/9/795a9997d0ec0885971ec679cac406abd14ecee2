@@ -3,7 +3,7 @@
 java:S1192"aDefine a constant instead of duplicating this literal "(\r\n|[\n\r\u2028\u2029\u0085])?" 3 times.(£©¾úÿÿÿÿ
 e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘¯
 e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü£“>
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®÷Œýÿÿÿÿ
 e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘¯
 e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘¯
 e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„”ÛW
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®÷Œýÿÿÿÿ
