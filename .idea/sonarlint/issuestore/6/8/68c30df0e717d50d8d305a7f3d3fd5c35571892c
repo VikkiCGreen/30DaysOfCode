@@ -1,0 +1,14 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "phone".(š‰áœ
+S
+java:S1854"8Remove this useless assignment to local variable "name".(†ðó¦þÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "s".(¦»·˜ýÿÿÿÿ
+D
+java:S1481")Remove this unused "name" local variable.(†ðó¦þÿÿÿÿ
+@
+java:S1481"*Remove this unused "phone" local variable.(š‰áœ
+A
+java:S1481"&Remove this unused "s" local variable.(¦»·˜ýÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ÑŸ«ã
