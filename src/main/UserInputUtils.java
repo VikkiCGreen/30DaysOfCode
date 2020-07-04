@@ -6,6 +6,7 @@ import day4.ClassVsInstance;
 import day5.Loops;
 import day6.Review1;
 import day7.Arrays;
+import day8.DictsNMaps;
 
 import java.util.Scanner;
 
@@ -66,6 +67,10 @@ public final class UserInputUtils {
             case 7:
                 Arrays arrays = new Arrays();
                 arrays.day7Challenge();
+                break;
+            case 8:
+                DictsNMaps dictsNMaps = new DictsNMaps();
+                dictsNMaps.day8Challenge();
                 break;
             //TODO: ...
             default:

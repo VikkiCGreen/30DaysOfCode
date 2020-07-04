@@ -25,3 +25,7 @@ I
 src/main/day4/Person.java,7\2\72297be2ddbd45b62cb7d744c063d8a838bcb1a5
 J
 src/main/day6/Review1.java,7\9\79cede1d4f18196b2433f71a443e69b7a380c6db
+I
+src/main/day7/Arrays.java,8\e\8e409250762da7222d1c3c50479673ead3ba092c
+M
+src/main/day8/DictsNMaps.java,6\8\68c30df0e717d50d8d305a7f3d3fd5c35571892c

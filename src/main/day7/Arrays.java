@@ -38,10 +38,9 @@ public class Arrays {
         StringBuilder reverseArray = new StringBuilder();
 
         for (int k = 0; k < n; k++) {
-            reverseArray.append(arr[k] + " ");
+            reverseArray.append(arr[k]).append(" ");
         }
         System.out.println(reverseArray.toString());
-
 
         scanner.close();
     }
