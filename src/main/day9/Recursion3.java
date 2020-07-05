@@ -1,6 +1,5 @@
 package day9;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Recursion3 {
@@ -12,7 +11,7 @@ as a parameter and prints the result of N!(N factorial).
 
     private static final Scanner scanner = new Scanner(System.in);
 
-    public void day9Challenge() throws IOException {
+    public void day9Challenge() {
 
         int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");

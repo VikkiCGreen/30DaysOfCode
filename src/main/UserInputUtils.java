@@ -1,5 +1,6 @@
 import day0.HelloWorld;
 import day1.DataTypes;
+import day10.BinaryNumbers;
 import day2.Operators;
 import day3.ConditionalStatements;
 import day4.ClassVsInstance;
@@ -9,14 +10,13 @@ import day7.Arrays;
 import day8.DictsNMaps;
 import day9.Recursion3;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public final class UserInputUtils {
 
     private UserInputUtils() {}
 
-    public static void getInputDay() throws IOException {
+    public static void getInputDay() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the challenge day you'd like to run (between 0 and 29): ");
         int day = 0;
@@ -36,7 +36,7 @@ public final class UserInputUtils {
         }
     }
 
-    public static void getChallenge(int inputDay) throws IOException {
+    public static void getChallenge(int inputDay) {
         switch (inputDay) {
             case 0:
                 HelloWorld helloWorld = new HelloWorld();
@@ -77,6 +77,10 @@ public final class UserInputUtils {
             case 9:
                 Recursion3 recursion3 = new Recursion3();
                 recursion3.day9Challenge();
+                break;
+            case 10:
+                BinaryNumbers binaryNumbers = new BinaryNumbers();
+                binaryNumbers.day10Challenge();
                 break;
             //TODO: ...
             default:
