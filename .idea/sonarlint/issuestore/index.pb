@@ -29,3 +29,7 @@ I
 src/main/day7/Arrays.java,8\e\8e409250762da7222d1c3c50479673ead3ba092c
 M
 src/main/day8/DictsNMaps.java,6\8\68c30df0e717d50d8d305a7f3d3fd5c35571892c
+Q
+!src/main/day10/BinaryNumbers.java,5\f\5fb6c8a469e96de4ed23a8dbaa45103e68c7d049
+M
+src/main/day11/TwoDArray.java,e\3\e3b629514364ff4c97053b8d9bfd11379b0f6acb

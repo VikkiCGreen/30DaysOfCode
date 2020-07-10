@@ -1,6 +1,7 @@
 import day0.HelloWorld;
 import day1.DataTypes;
 import day10.BinaryNumbers;
+import day11.TwoDArray;
 import day2.Operators;
 import day3.ConditionalStatements;
 import day4.ClassVsInstance;
@@ -82,7 +83,11 @@ public final class UserInputUtils {
                 BinaryNumbers binaryNumbers = new BinaryNumbers();
                 binaryNumbers.day10Challenge();
                 break;
-            //TODO: ...
+            case 11:
+                TwoDArray twoDArray = new TwoDArray();
+                twoDArray.day11Challenge();
+                break;
+            //TODO: ..
             default:
                 getInputDay();
                 break;
