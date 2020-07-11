@@ -33,3 +33,9 @@ Q
 !src/main/day10/BinaryNumbers.java,5\f\5fb6c8a469e96de4ed23a8dbaa45103e68c7d049
 M
 src/main/day11/TwoDArray.java,e\3\e3b629514364ff4c97053b8d9bfd11379b0f6acb
+K
+src/main/day12/Student.java,c\a\cab505c89f25bbbc5eaf5bec51ba7b52526069f6
+J
+src/main/day12/Person.java,8\3\83d266e998c975dd8030c9507b08283e71140f94
+O
+src/main/day12/Inheritance.java,2\f\2f94d4d8cc18e20f1b2afc1048bebe2c07fafb2f
